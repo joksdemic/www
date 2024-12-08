@@ -1,0 +1,107 @@
+.register {
+    max-width: 600px;
+    margin: 50px auto;
+    border-radius: 15px; 
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); 
+    animation: slideUp 0.5s ease-out;
+    text-align: center;
+}
+
+.register,
+.signUp-button {
+    padding: 30px;
+}
+
+.register,
+.signUp-label,
+.signUp-input {
+    background-color: #fff;
+    border: 2px solid #01497a;
+    cursor: default;
+}
+
+@keyframes slideUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.singUp-title,
+.signUp-switch a 
+{
+    color: #01497a;
+}
+
+.signUp-form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.signUp-box {
+    position: relative;
+}
+
+.signUp-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    outline: none;
+}
+
+.signUp-label {
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    padding: 0 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.login__icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+}
+
+.login__icon,
+.signUp-button {
+    font-size: 20px;
+}
+
+.signUp-button,
+.signUp-label,
+.login__icon,
+h1 {
+    text-transform: uppercase;
+    color: #385f7a;
+}
+
+.signUp-button {
+    background-color: #01497a;
+    color: white;
+    margin: 20px 0 20px 0;
+
+}
+
+.signUp-button:hover {
+    cursor: pointer;
+    background: linear-gradient(45deg, #456794, #a3b3c9);
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    opacity: 1;
+}
+
+.signUp-switch a{
+    text-decoration: none;
+}
+  
+.signUp-switch a:hover{
+    color: #839fc4;
+}

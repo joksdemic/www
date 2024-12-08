@@ -1,0 +1,1017 @@
+[
+    {
+        "id": 1,
+        "name": "KOLICA MEHANICKA EASY QUICK",
+        "price": 30250.00,
+        "image": "image/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "KOLICA MEHANICKA CONCEPT II",
+        "price": 58300.00,
+        "image": "image/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":  "KOLICA MEHANICKA LIGHT TOP",
+        "price": 28000.00,
+        "image": "image/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "KOLICA MEHANICKA RECLINING",
+        "price": 29990.00,
+        "image": "image/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "KOLICA MEHANICKA SMART STANDARD",
+        "price": 27000.00,
+        "image": "image/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "KOLICA MEHANICKA WINNER TWO",
+        "price": 26500.00,
+        "image": "image/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "KOLICA MEHANICKA FS 980 LA",
+        "price": 30250.00,
+        "image": "image/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "KOLICA MEHANICKA GEMINI BLUE",
+        "price": 30250.00,
+        "image": "image/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "KOLICA MEHANICKA GOLDEN MOBIAK",
+        "price": 35250.00,
+        "image": "image/9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "KOLICA MEHANICKA ACTION 3",
+        "price": 30250,
+        "image": "image/10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "KOLICA MEHANICKA FS 903 LQ",
+        "price": 31050.00,
+        "image": "image/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "KOLICA MEHANICKA ACTION 5",
+        "price": 33350.00,
+        "image": "image/12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "KOLICA ELEKTROMOTORNA VIA 6 KM/H",
+        "price": 308000.00,
+        "image": "image/13.png"
+    },
+    {
+        "id": 14,
+        "name": "KOLICA ELEKTROMOTORNA EJOY RD, 6 KM/H",
+        "price": 352000.00,
+        "image": "image/14.png"
+    },
+    {
+        "id": 15,
+        "name": "KOLICA ELEKTROMOTORNA FS 101A",
+        "price": 275000.00,
+        "image": "image/15.png"
+    },
+    {
+        "id": 16,
+        "name": "KOLICA ELEKTROMOTORNA FS 123",
+        "price": 275000.00,
+        "image": "image/16.png"
+    },
+    {
+        "id": 17,
+        "name": "KOLICA ELEKTROMOTORNA TITAN",
+        "price": 275000.00,
+        "image": "image/17.png"
+    },
+    {
+        "id": 18,
+        "name": "KOLICA ELEKTROMOTORNA FS 123 GC",
+        "price": 275000.00,
+        "image": "image/18.png"
+    },
+    {
+        "id": 19,
+        "name": "KOLICA ELEKTROMOTORNA FS 110A",
+        "price": 275000.00,
+        "image": "image/19.png"
+    },
+    {
+        "id": 20,
+        "name": "KOLICA ELEKTROMOTORNA FOSHAN MEDICAL FS-123-GC",
+        "price": 300250.00,
+        "image": "image/20.png"
+    },
+    {
+        "id": 21,
+        "name": "KOLICA ELEKTROMOTORNA SURFACE S.P.A.",
+        "price": 270000.00,
+        "image": "image/21.png"
+    },
+    {
+        "id": 22,
+        "name": "AKTIVNA KOLICA Escape TT/TS",
+        "price": 27000.00,
+        "image": "image/22.png"
+    },
+    {
+        "id": 23,
+        "name": "AKTIVNA KOLICA Avanti 1736",
+        "price": 32000.00,
+        "image": "image/23.png"
+    },
+    {
+        "id": 24,
+        "name": "AKTIVNA KOLICA SAGGITTA",
+        "price": 35000.00,
+        "image": "image/24.png"
+    },
+    {
+        "id": 25,
+        "name": "AKTIVNA KOLICA FLASH 1135",
+        "price": 24400.00,
+        "image": "image/25.png"
+    },
+    {
+        "id": 26,
+        "name": "AKTIVNA KOLICA HURRICANE 1880",
+        "price": 27150.00,
+        "image": "image/26.png"
+    },
+    {
+        "id": 27,
+        "name": "AKTIVNA KOLICA SMART F 2360",
+        "price": 33250.00,
+        "image": "image/27.png"
+    },
+    {
+        "id": 28,
+        "name": "AKTIVNA KOLICA SMART S 2370",
+        "price": 28250.00,
+        "image": "image/28.png"
+    },
+    {
+        "id": 29,
+        "name": "AKTIVNA KOLICA PANTHERA X",
+        "price": 35250.00,
+        "image": "image/29.png"
+    },
+    {
+        "id": 30,
+        "name": "AKTIVNA KOLICA PANTHERA U3",
+        "price": 27000.00,
+        "image": "image/30.png"
+    },
+    {
+        "id": 31,
+        "name": "HODALICA ZGLOBNA MOBIAK TIP 919",
+        "price": 6600.00,
+        "image": "image/31.png"
+    },
+    {
+        "id": 32,
+        "name": "HODALICA FS 919L ZGLOBNA",
+        "price": 6600.00,
+        "image": "image/32.png"
+    },
+    {
+        "id": 33,
+        "name": "HODALICA SA DVA TOCKA MOBIAK TIP 912",
+        "price": 6600.00,
+        "image": "image/33.png"
+    },
+    {
+        "id": 34,
+        "name": "HODALICA FS 9632 L ZGLOBNA, STEPENASTA",
+        "price": 7150.00,
+        "image": "image/34.png"
+    },
+    {
+        "id": 35,
+        "name": "HODALICA ZGLOBNA JMC-C 3202",
+        "price": 7250.00,
+        "image": "image/35.png"
+    },
+    {
+        "id": 36,
+        "name": "HODALICA ZGLOBNA SMART F 2360",
+        "price": 5250.00,
+        "image": "image/36.png"
+    },
+    {
+        "id": 37,
+        "name": "HODALICA ZGLOBNA MOBIAK TIP 119",
+        "price": 8500.00,
+        "image": "image/37.png"
+    },
+    {
+        "id": 38,
+        "name": "HODALICA ZGLOBNA JMC-C 3201",
+        "price": 5250.00,
+        "image": "image/38.png"
+    },
+    {
+        "id": 39,
+        "name": "HODALICA ZGLOBNA JMC-C-3016W5",
+        "price": 7000.00,
+        "image": "image/39.png"
+    },
+    {
+        "id": 40,
+        "name": "HODALICA ROLATOR TIP 965 PLAVI MBK",
+        "price": 15950.00,
+        "image": "image/40.png"
+    },
+    {
+        "id": 41,
+        "name": "HODALICA ROLATOR SA CETIRI TOCKA I KORPOM SENIO",
+        "price": 18700.00,
+        "image": "image/41.png"
+    },
+    {
+        "id": 42,
+        "name": "HODALICA ROLATOR SA CETIRI TOCKA I TORBOM MOBIAK TIP ACTION",
+        "price": 17150.00,
+        "image": "image/42.png"
+    },
+    {
+        "id": 43,
+        "name": "HODALICA ROLATOR LUXURY CRVENA",
+        "price": 17250.00,
+        "image": "image/43.png"
+    },
+    {
+        "id": 44,
+        "name": "HODALICA ROLATOR LUXURY SIVA",
+        "price": 17250.00,
+        "image": "image/44.png"
+    },
+    {
+        "id": 45,
+        "name": "HODALICA ROLATOR SMART 327",
+        "price": 15050.00,
+        "image": "image/45.png"
+    },
+    {
+        "id": 46,
+        "name": "HODALICA ROLATOR W234",
+        "price": 17500.00,
+        "image": "image/46.png"
+    },
+    {
+        "id": 47,
+        "name": "HODALICA ROLATOR QUATRO",
+        "price": 14500.00,
+        "image": "image/47.png"
+    },
+    {
+        "id": 48,
+        "name": "HODALICA ROLATOR FS 969",
+        "price": 11790.00,
+        "image": "image/48.png"
+    },
+    {
+        "id": 49,
+        "name": "PODLAKATNA HODALICA PLUS",
+        "price": 15950.00,
+        "image": "image/49.png"
+    },
+    {
+        "id": 50,
+        "name": "PODLAKATNA HODALICA FREEDOM",
+        "price": 21100.00,
+        "image": "image/50.png"
+    },
+    {
+        "id": 51,
+        "name": "PODLAKATNA HODALICA TROTTER MOBIAK TIP 9612",
+        "price": 18590.00,
+        "image": "image/51.png"
+    },
+    {
+        "id": 52,
+        "name": "PODLAKATNA HODALICA 124 TROTTER",
+        "price": 17150.00,
+        "image": "image/52.png"
+    },
+    {
+        "id": 53,
+        "name": "PODLAKATNA HODALICA PILOT TROTTER",
+        "price": 26700.00,
+        "image": "image/53.png"
+    },
+    {
+        "id": 54,
+        "name": "PODLAKATNA HODALICA ASPIRE",
+        "price": 22300.00,
+        "image": "image/54.png"
+    },
+    {
+        "id": 55,
+        "name": "PODLAKATNA HODALICA STYLE",
+        "price": 23500.00,
+        "image": "image/55.png"
+    },
+    {
+        "id": 56,
+        "name": "PODLAKATNA HODALICA W324",
+        "price": 24400.00,
+        "image": "image/56.png"
+    },
+    {
+        "id": 57,
+        "name": "PODLAKATNA HODALICA TITAN",
+        "price": 25790.00,
+        "image": "image/57.png"
+    },
+    {
+        "id": 58,
+        "name": "PODLAKATNE ŠTAKE ALUMINIJUMSKE",
+        "price": 1950.00,
+        "image": "image/58.png"
+    },
+    {
+        "id": 59,
+        "name": "PODLAKATNE ŠTAKE ALUMINIJUMSKE",
+        "price": 1100.00,
+        "image": "image/59.png"
+    },
+    {
+        "id": 60,
+        "name": "PODLAKATNE ŠTAKE ALUMINIJUMSKE",
+        "price": 2590.00,
+        "image": "image/60.png"
+    },
+    {
+        "id": 61,
+        "name": "PODLAKATNE ŠTAKE ALUMINIJUMSKE",
+        "price": 1150.00,
+        "image": "image/61.png"
+    },
+    {
+        "id": 62,
+        "name": "PODLAKATNE ŠTAKE ALUMINIJUMSKE",
+        "price": 2700.00,
+        "image": "image/62.png"
+    },
+    {
+        "id": 63,
+        "name": "PODLAKATNE ŠTAKE ALUMINIJUMSKE",
+        "price": 2300.00,
+        "image": "image/63.png"
+    },
+    {
+        "id": 64,
+        "name": "PODLAKATNE ŠTAKE ALUMINIJUMSKE",
+        "price": 2500.00,
+        "image": "image/64.png"
+    },
+    {
+        "id": 65,
+        "name": "PODLAKATNE ŠTAKE ALUMINIJUMSKE",
+        "price": 2400.00,
+        "image": "image/65.png"
+    },
+    {
+        "id": 66,
+        "name": "PODLAKATNE ŠTAKE DECIJE",
+        "price": 1790.00,
+        "image": "image/66.png"
+    },
+    {
+        "id": 67,
+        "name": "PODPAZUŠNE ŠTAKE ALUMINIJUMSKE",
+        "price": 1750.00,
+        "image": "image/67.png"
+    },
+    {
+        "id": 68,
+        "name": "PODPAZUŠNE ŠTAKE ALUMINIJUMSKE",
+        "price": 2100.00,
+        "image": "image/68.png"
+    },
+    {
+        "id": 69,
+        "name": "PODPAZUŠNE ŠTAKE ALUMINIJUMSKE",
+        "price": 1590.00,
+        "image": "image/69.png"
+    },
+    {
+        "id": 70,
+        "name": "PODPAZUŠNE ŠTAKE ALUMINIJUMSKE",
+        "price": 2250.00,
+        "image": "image/70.png"
+    },
+    {
+        "id": 71,
+        "name": "PODPAZUŠNE ŠTAKE ALUMINIJUMSKE",
+        "price": 2950.00,
+        "image": "image/71.png"
+    },
+    {
+        "id": 72,
+        "name": "PODPAZUŠNE ŠTAKE ALUMINIJUMSKE",
+        "price": 2190.00,
+        "image": "image/72.png"
+    },
+    {
+        "id": 73,
+        "name": "PODPAZUŠNE ŠTAKE ALUMINIJUMSKE",
+        "price": 1890.00,
+        "image": "image/73.png"
+    },
+    {
+        "id": 74,
+        "name": "PODPAZUŠNE ŠTAKE ALUMINIJUMSKE",
+        "price": 1950.00,
+        "image": "image/74.png"
+    },
+    {
+        "id": 75,
+        "name": "PODPAZUŠNE ŠTAKE LIGHT ALLOY",
+        "price": 1200.00,
+        "image": "image/75.png"
+    },
+    {
+        "id": 76,
+        "name": "ŠTAP NA PRODUŽENJE SA BAZOM I LED",
+        "price": 1500.00,
+        "image": "image/76.png"
+    },
+    {
+        "id": 77,
+        "name": "ŠTAP NA PRODUŽENJE",
+        "price": 1500.00,
+        "image": "image/77.png"
+    },
+    {
+        "id": 78,
+        "name": "ŠTAP NA PRODUŽENJE",
+        "price": 3590.00,
+        "image": "image/78.png"
+    },
+    {
+        "id": 79,
+        "name": "ŠTAP NA PRODUŽENJE",
+        "price": 6150.00,
+        "image": "image/79.png"
+    },
+    {
+        "id": 80,
+        "name": "ŠTAP NA PRODUŽENJE",
+        "price": 3700.00,
+        "image": "image/80.png"
+    },
+    {
+        "id": 81,
+        "name": "ŠTAP NA PRODUŽENJE",
+        "price": 2300.00,
+        "image": "image/81.png"
+    },
+    {
+        "id": 82,
+        "name": "ŠTAP NA PRODUŽENJE",
+        "price": 2500.00,
+        "image": "image/82.png"
+    },
+    {
+        "id": 83,
+        "name": "ŠTAP NA PRODUŽENJE",
+        "price": 4400.00,
+        "image": "image/83.png"
+    },
+    {
+        "id": 84,
+        "name": "ŠTAP NA PRODUŽENJE",
+        "price": 5790.00,
+        "image": "image/84.png"
+    },
+    {
+        "id": 85,
+        "name": "ŠTAP TROKRAKI MOBIAK TIP 926",
+        "price": 1500.00,
+        "quantity": 5,
+        "image": "image/85.png"
+    },
+    {
+        "id": 86,
+        "name": "ŠTAP TROKRAKI FS 926",
+        "price": 1500.00,
+        "quantity": 8,
+        "image": "image/86.png"
+    },
+    {
+        "id": 87,
+        "name": "ŠTAP TROKRAKI",
+        "price": 3590.00,
+        "quantity": 12,
+        "image": "image/87.png"
+    },
+    {
+        "id": 88,
+        "name": "ŠTAP TROKRAKI",
+        "price": 3990.00,
+        "quantity": 6,
+        "image": "image/88.png"
+    },
+    {
+        "id": 89,
+        "name": "ŠTAP TROKRAKI",
+        "price": 3700.00,
+        "quantity": 4,
+        "image": "image/89.png"
+    },
+    {
+        "id": 90,
+        "name": "ŠTAP TROKRAKI",
+        "price": 2300.00,
+        "quantity": 10,
+        "image": "image/90.png"
+    },
+    {
+        "id": 91,
+        "name": "ŠTAP TROKRAKI",
+        "price": 2500.00,
+        "quantity": 7,
+        "image": "image/91.png"
+    },
+    {
+        "id": 92,
+        "name": "ŠTAP TROKRAKI",
+        "price": 4400.00,
+        "quantity": 15,
+        "image": "image/92.png"
+    },
+    {
+        "id": 93,
+        "name": "ŠTAP TROKRAKI",
+        "price": 5790.00,
+        "quantity": 3,
+        "image": "image/93.png"
+    },
+    {
+        "id": 94,
+        "name": "ŠTAP ČETVOROKRAKI FS 922",
+        "price": 1500.00,
+        "quantity": 6,
+        "image": "image/94.png"
+    },
+    {
+        "id": 95,
+        "name": "ŠTAP ČETVOROKRAKI FTS 342",
+        "price": 1500.00,
+        "quantity": 8,
+        "image": "image/95.png"
+    },
+    {
+        "id": 96,
+        "name": "ŠTAP ČETVOROKRAKI MOBIAK TIP 922",
+        "price": 3590.00,
+        "quantity": 10,
+        "image": "image/96.png"
+    },
+    {
+        "id": 97,
+        "name": "ŠTAP ČETVOROKRAKI 76",
+        "price": 6150.00,
+        "quantity": 4,
+        "image": "image/97.png"
+    },
+    {
+        "id": 98,
+        "name": "ŠTAP NA PRODUŽENJE SILVER",
+        "price": 3700.00,
+        "quantity": 7,
+        "image": "image/98.png"
+    },
+    {
+        "id": 99,
+        "name": "ŠTAP ČETVOROKRAKI FDSFS 68",
+        "price": 2300.00,
+        "quantity": 12,
+        "image": "image/99.png"
+    },
+    {
+        "id": 100,
+        "name": "ŠTAP ČETVOROKRAKI BLUE",
+        "price": 2500.00,
+        "quantity": 5,
+        "image": "image/100.png"
+    },
+    {
+        "id": 101,
+        "name": "ŠTAP ČETVOROKRAKI M",
+        "price": 2500.00,
+        "quantity": 9,
+        "image": "image/101.png"
+    },
+    {
+        "id": 102,
+        "name": "ŠTAP ČETVOROKRAKI S",
+        "price": 5790.00,
+        "quantity": 3,
+        "image": "image/102.png"
+    },
+    {
+        "id": 103,
+        "name": "KREVET ELEKTRIČNI K008 A",
+        "price": 162950.00,
+        "quantity": 5,
+        "image": "image/103.png"
+    },
+    {
+        "id": 104,
+        "name": "KREVET ELEKTRIČNI K008 B",
+        "price": 171100.00,
+        "quantity": 6,
+        "image": "image/104.png"
+    },
+    {
+        "id": 105,
+        "name": "KREVET ELEKTRIČNI K012/EP-2M",
+        "price": 234590.00,
+        "quantity": 4,
+        "image": "image/105.png"
+    },
+    {
+        "id": 106,
+        "name": "KREVET ELEKTRIČNI DALI ECON",
+        "price": 115150.00,
+        "quantity": 7,
+        "image": "image/106.png"
+    },
+    {
+        "id": 107,
+        "name": "KREVET ELEKTRIČNI LIGHT ALLOY",
+        "price": 216700.00,
+        "quantity": 3,
+        "image": "image/107.png"
+    },
+    {
+        "id": 108,
+        "name": "KREVET ELEKTRIČNI K012/EP-3M",
+        "price": 200300.00,
+        "quantity": 8,
+        "image": "image/108.png"
+    },
+    {
+        "id": 109,
+        "name": "KREVET ELEKTRIČNI DALI STANDARD",
+        "price": 225500.00,
+        "quantity": 5,
+        "image": "image/109.png"
+    },
+    {
+        "id": 110,
+        "name": "KREVET ELEKTRIČNI VIRGO S",
+        "price": 222400.00,
+        "quantity": 4,
+        "image": "image/110.png"
+    },
+    {
+        "id": 111,
+        "name": "KREVET ELEKTRIČNI VIRGO MOBIAK",
+        "price": 198790.00,
+        "quantity": 6,
+        "image": "image/111.png"
+    },
+    {
+        "id": 112,
+        "name": "KREVET BOLNIČKI EUCLIDE (BEZ TOČKOVA)",
+        "price": 118500.00,
+        "quantity": 10,
+        "image": "image/112.png"
+    },
+    {
+        "id": 113,
+        "name": "KREVET BOLNIČKI JASMIN",
+        "price": 138500.00,
+        "quantity": 5,
+        "image": "image/113.png"
+    },
+    {
+        "id": 114,
+        "name": "KREVET BOLNIČKI MEHANIČKI K008 A",
+        "price": 322590.00,
+        "quantity": 2,
+        "image": "image/114.png"
+    },
+    {
+        "id": 115,
+        "name": "KREVET BOLNIČKI MEHANIČKI K008 B",
+        "price": 186150.00,
+        "quantity": 5,
+        "image": "image/115.png"
+    },
+    {
+        "id": 116,
+        "name": "KREVET BOLNIČKI TEA",
+        "price": 243700.00,
+        "quantity": 3,
+        "image": "image/116.png"
+    },
+    {
+        "id": 117,
+        "name": "KREVET BOLNIČKI H32",
+        "price": 221300.00,
+        "quantity": 2,
+        "image": "image/117.png"
+    },
+    {
+        "id": 118,
+        "name": "KREVET BOLNIČKI TOMA",
+        "price": 242500.00,
+        "quantity": 8,
+        "image": "image/118.png"
+    },
+    {
+        "id": 119,
+        "name": "KREVET BOLNIČKI",
+        "price": 124400.00,
+        "quantity": 4,
+        "image": "image/119.png"
+    },
+    {
+        "id": 120,
+        "name": "KREVET ZA KUĆNU NEGU SAGA",
+        "price": 135790.00,
+        "quantity": 5,
+        "image": "image/120.png"
+    },
+    {
+        "id": 121,
+        "name": "KREVET ZA KUĆNU NEGU SAVION H-14",
+        "price": 118500.00,
+        "quantity": 10,
+        "image": "image/121.png"
+    },
+    {
+        "id": 122,
+        "name": "KREVET ZA KUĆNU NEGU DALI II",
+        "price": 138500.00,
+        "quantity": 5,
+        "image": "image/122.png"
+    },
+    {
+        "id": 123,
+        "name": "KREVET ZA KUĆNU NEGU IC555",
+        "price": 322590.00,
+        "quantity": 2,
+        "image": "image/123.png"
+    },
+    {
+        "id": 124,
+        "name": "KREVET ZA KUĆNU NEGU DIVA",
+        "price": 186150.00,
+        "quantity": 2,
+        "image": "image/124.png"
+    },
+    {
+        "id": 125,
+        "name": "KREVET ZA KUĆNU NEGU C-11",
+        "price": 243700.00,
+        "quantity": 5,
+        "image": "image/125.png"
+    },
+    {
+        "id": 126,
+        "name": "KREVET ZA KUĆNU NEGU C-1102",
+        "price": 221300.00,
+        "quantity": 2,
+        "image": "image/126.png"
+    },
+    {
+        "id": 127,
+        "name": "KREVET ZA KUĆNU NEGU H-2150",
+        "price": 242500.00,
+        "quantity": 8,
+        "image": "image/127.png"
+    },
+    {
+        "id": 128,
+        "name": "KREVET ZA KUĆNU NEGU INT-1000",
+        "price": 124400.00,
+        "quantity": 2,
+        "image": "image/128.png"
+    },
+    {
+        "id": 129,
+        "name": "KREVET ZA KUĆNU NEGU TEIDE",
+        "price": 135790.00,
+        "quantity": 7,
+        "image": "image/129.png"
+    },
+    {
+        "id": 130,
+        "name": "ELEKTRIČNA DIZALICA JOZ",
+        "price": 111500.00,
+        "quantity": 5,
+        "image": "image/130.png"
+    },
+    {
+        "id": 131,
+        "name": "ELEKTRIČNA DIZALICA DOLI",
+        "price": 123500.00,
+        "quantity": 3,
+        "image": "image/131.png"
+    },
+    {
+        "id": 132,
+        "name": "ELEKTRIČNA DIZALICA SOLI",
+        "price": 133590.00,
+        "quantity": 3,
+        "image": "image/132.png"
+    },
+    {
+        "id": 133,
+        "name": "ELEKTRIČNA DIZALICA H43-4",
+        "price": 146150.00,
+        "quantity": 9,
+        "image": "image/133.png"
+    },
+    {
+        "id": 134,
+        "name": "ELEKTRIČNA DIZALICA H53-4",
+        "price": 123700.00,
+        "quantity": 3,
+        "image": "image/134.png"
+    },
+    {
+        "id": 135,
+        "name": "ELEKTRIČNA DIZALICA D54",
+        "price": 132300.00,
+        "quantity": 9,
+        "image": "image/135.png"
+    },
+    {
+        "id": 136,
+        "name": "ELEKTRIČNA DIZALICA D24",
+        "price": 125500.00,
+        "quantity": 2,
+        "image": "image/136.png"
+    },
+    {
+        "id": 137,
+        "name": "ELEKTRIČNA DIZALICA D12",
+        "price": 118900.00,
+        "quantity": 4,
+        "image": "image/137.png"
+    },
+    {
+        "id": 138,
+        "name": "ELEKTRIČNA DIZALICA H52",
+        "price": 134600.00,
+        "quantity": 5,
+        "image": "image/138.png"
+    },
+    {
+        "id": 139,
+        "name": "ELEKTRIČNA DIZALICA C-24",
+        "price": 122400.00,
+        "quantity": 8,
+        "image": "image/139.png"
+    },
+    {
+        "id": 140,
+        "name": "ELEKTRIČNA DIZALICA C-32",
+        "price": 111000.00,
+        "quantity": 7,
+        "image": "image/140.png"
+    },
+    {
+        "id": 141,
+        "name": "ELEKTRIČNA DIZALICA C-12",
+        "price": 120300.00,
+        "quantity": 2,
+        "image": "image/141.png"
+    },
+    {
+        "id": 142,
+        "name": "ELEKTRIČNA DIZALICA C-23",
+        "price": 118700.00,
+        "quantity": 9,
+        "image": "image/142.png"
+    },
+    {
+        "id": 143,
+        "name": "ELEKTRIČNA DIZALICA B-12",
+        "price": 122800.00,
+        "quantity": 6,
+        "image": "image/143.png"
+    },
+    {
+        "id": 144,
+        "name": "HIDRAULIČNA DIZALICA SA KORPOM",
+        "price": 94300.00,
+        "quantity": 1,
+        "image": "image/144.png"
+    },
+    {
+        "id": 145,
+        "name": "HIDRAULIČNA DIZALICA MEDLINE 300",
+        "price": 92500.00,
+        "quantity": 2,
+        "image": "image/145.png"
+    },
+    {
+        "id": 146,
+        "name": "HIDRAULIČNA DIZALICA MEDLINE 400",
+        "price": 94400.00,
+        "quantity": 2,
+        "image": "image/146.png"
+    },
+    {
+        "id": 147,
+        "name": "HIDRAULIČNA DIZALICA MDS88200D",
+        "price": 95790.00,
+        "quantity": 2,
+        "image": "image/147.png"
+    },
+    {
+        "id": 148,
+        "name": "HIDRAULIČNA DIZALICA MEDLINE 500",
+        "price": 134700.00,
+        "quantity": 1,
+        "image": "image/148.png"
+    },
+    {
+        "id": 149,
+        "name": "HIDRAULIČNA DIZALICA 7000",
+        "price": 186000.00,
+        "quantity": 3,
+        "image": "image/149.png"
+    },
+    {
+        "id": 150,
+        "name": "HIDRAULIČNA DIZALICA 5000",
+        "price": 152300.00,
+        "quantity": 4,
+        "image": "image/150.png"
+    },
+    {
+        "id": 151,
+        "name": "KORPA ZA DIZALICU MEDLINE",
+        "price": 17150.00,
+        "quantity": 9,
+        "image": "image/151.png"
+    },
+    {
+        "id": 152,
+        "name": "KORPA ZA DIZALICU REUSABLE",
+        "price": 12250.00,
+        "quantity": 6,
+        "image": "image/152.png"
+    },
+    {
+        "id": 153,
+        "name": "KORPA ZA DIZALICU GRAHAN",
+        "price": 15250.00,
+        "quantity": 5,
+        "image": "image/153.png"
+    },
+    {
+        "id": 154,
+        "name": "KORPA ZA DIZALICU",
+        "price": 18500.00,
+        "quantity": 5,
+        "image": "image/154.png"
+    },
+    {
+        "id": 155,
+        "name": "KORPA ZA DIZALICU",
+        "price": 15250.00,
+        "quantity": 5,
+        "image": "image/155.png"
+    },
+    {
+        "id": 156,
+        "name": "KORPA ZA DIZALICU",
+        "price": 17000.00,
+        "quantity": 6,
+        "image": "image/156.png"
+    }
+    
+]
+
+        
+        
+            
+    
+    

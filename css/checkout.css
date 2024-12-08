@@ -1,0 +1,154 @@
+
+*{
+  font-family: 'Poppins', sans-serif;
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+  transition: all .2s linear;
+}
+
+.container{
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  min-height: 600px;
+  animation: slideUp 0.5s ease-out;
+}
+
+.container,
+.flex,
+.row {
+  display: flex;
+}
+
+
+@keyframes slideUp {
+  0% {
+      opacity: 0;
+      transform: translateY(30px);
+  }
+  100% {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+
+.form {
+  padding: 20px;
+  width:700px;
+  background: #fff;
+  box-shadow: 0 5px 10px rgba(0,0,0,.1);
+}
+
+.form,
+.inputBox input {
+  cursor: default;
+}
+
+.row{
+  flex-wrap: wrap;
+}
+
+.col{
+  flex:1 1 250px;
+}
+
+.title{
+  font-size: 20px;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+}
+
+.title,
+.inputBox span {
+  color:#456794;
+}
+
+.inputBox{
+  margin:15px 0;
+  text-align: left;
+}
+
+.inputBox span{
+  margin-bottom: 10px;
+  display: block;
+}
+
+.inputBox input{
+  border:1px solid #ccc;
+  padding: 10px 15px;
+  font-size: 15px;
+  text-transform: none;
+}
+
+.inputBox input,
+.submit-btn {
+  width: 100%;
+}
+
+.inputBox input:focus{
+  border:2px solid #a0b5d2;
+}
+
+.flex,
+.row{
+  gap:15px;
+}
+
+.flex .inputBox,
+.inputBox img,
+#cardNum,
+#cvv,
+.submit-btn{
+  margin-top: 5px;
+}
+
+.inputBox img{
+  height: 34px;
+  filter: drop-shadow(0 0 1px #000);
+}
+
+#cards img {
+  margin-top: 65px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+#cards img:hover {
+  border-radius: 50%;
+  box-shadow: 2px 14px 10px rgba(20, 117, 214, 0.5);
+}
+
+#cvv,
+#date {
+    width: 30%;
+}
+
+#cvv input {
+    text-align: right;
+}
+
+#date,
+#owner {
+  margin-top: 2px;
+}
+
+#postNum,
+#flatNum{
+    width: 40%;
+}
+
+.submit-btn{
+  padding: 12px;
+  font-size: 17px;
+  background: #456794;;
+  color:#fff;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.submit-btn:hover{
+  background: linear-gradient(45deg, #76a1ec, #5189dd);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  transform: scale(1.03);
+}
+

@@ -1,0 +1,450 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Pacifico&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Sahitya:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    font-family: 'Playfair Display', serif;
+}
+  
+body{
+    margin: 0;
+    background: linear-gradient(to top left, #667992, #cad9ee);
+}
+
+.cover-image img {
+    height: 580px;
+}
+
+.cover-image img,
+.listCart .item img,
+.listProduct .item img,
+.addCart {
+    width: 100%;
+}
+
+.text-main {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 40px;
+    background-color: rgba(248, 248, 248, 0.8); 
+    border-radius: 15px; 
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2); 
+    line-height: 1.8;
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+}
+
+.text-main h2 {
+    font-size: 2rem;
+    color: #002f6c; 
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 3px solid #003f7f; 
+    padding-bottom: 15px;
+}
+
+.text-main p {
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+    color: #667992;
+    text-align: justify;
+    text-transform: none; 
+}
+
+.text-main p span {
+    font-weight: bold;
+}
+
+.text-main p span,
+.text-main a {
+    color: #0050b3; 
+}
+
+.text-main a {
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.text-main a:hover {
+    transform: translateY(-2px);
+}
+
+.text-main a:hover,
+.text-main ul li::before {
+    color: #003f7f; 
+}
+
+.text-main .highlight {
+    background-color: #e6f2ff; 
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.text-main ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.text-main ul li {
+    font-size: 1.1rem;
+    color: #555555;
+    margin-bottom: 10px;
+    position: relative;
+    padding-left: 25px;
+}
+
+.text-main ul li::before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 18px;
+    line-height: 1;
+}
+
+.text-main input,
+.text-main select,
+.text-main textarea {
+    width: 100%;
+    padding: 12px 20px;
+    border: 2px solid #003f7f; 
+    border-radius: 10px;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    background-color: #f0f4f7; 
+    color: #333;
+    transition: border-color 0.3s ease;
+}
+
+.text-main input:focus,
+.text-main select:focus,
+.text-main textarea:focus {
+    border-color: #0050b3; 
+    background-color: whitesmoke; 
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.text-main {
+    animation: fadeInUp 0.8s ease-out;
+}
+
+
+.container{
+    width: 900px;
+    margin: auto;
+    max-width: 90vw;
+    text-align: center;
+    padding-top: 10px;
+    transition: transform .5s;
+}
+
+.title-shop{
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    font-size: xx-large;
+    color:  #456794;
+}
+
+.title-shop,
+.quantity,
+.quantity span,
+.button-shop {
+   display: flex;
+}
+
+.white{
+    background-color: white;
+}
+
+/*PRODUCTS LIST*/
+.listProduct {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.listProduct .item {
+    background-color: white;
+    padding: 20px;
+    position: relative;
+    overflow: hidden; 
+    transition: all 0.3s ease; 
+}
+
+.listProduct .item,
+.listProduct  .item button {
+    border-radius: 20px;
+}
+
+.listProduct .item:hover {
+    border: 4px solid #456794;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); 
+}
+    
+.listProduct .item img {
+    height: 170px;
+    filter: drop-shadow(0 50px 20px #0009);
+    transition: transform 0.3s ease; 
+}
+
+.listProduct .item:hover img {
+    transform: scale(1.05); 
+}
+
+.listProduct .item:hover .addCart {
+    display: block;
+}
+    
+h2 {
+    font-weight: 500;
+    font-size: large;
+}
+
+h2, .price {
+    margin: 10px 0;
+}
+    
+.price {
+    letter-spacing: 7px;
+    font-size: small;
+}
+    
+.item button{
+    background-color: #b0aca4;
+    color: #eee;
+    padding: 5px 10px;
+}
+
+.item button,
+.addCart {
+    margin-top: 10px;
+}
+
+.item button,
+.addCart,
+.cartTab button,
+.button-shop .close,
+.button-shop .checkOut {
+    border: none;
+}
+
+
+.addCart {
+    display: none;
+    background: linear-gradient(45deg, #456794, #648abb);
+    color: white;
+    padding: 12px 24px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+    opacity: 0.9;
+}
+
+.addCart:hover {
+    background: linear-gradient(45deg, #456794, #a3b3c9);
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    opacity: 1;
+}
+
+.addCart:active {
+    transform: translateY(2px);
+}
+
+.product-image:hover .addCart {
+    display: block;
+}
+
+
+/*CART*/
+.cartTab{
+    width: 400px;
+    background-color:  #456794;
+    color: white;
+    position: fixed;
+    top: 0;
+    right: -400px;
+    bottom: 0;
+    display: grid;
+    grid-template-rows: 70px 1fr 70px;
+    transition: .5s;
+}
+body.showCart .cartTab{
+    right: 0;
+}
+body.showCart .container{
+    transform: translateX(-250px);
+}
+.cartTab h1{
+    padding: 25px;
+    margin: 0;
+    font-weight: 300;
+}
+.cartTab .btn{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.cartTab button{
+    font-family: Poppins;
+    font-weight: 500;
+    cursor: pointer;
+}
+.cartTab .close{
+    background-color: #f0f0f0;
+    color: black;
+}
+
+
+.listCart {
+    max-height: 500px;
+    margin-top: 14px 0 30px 0;
+    background-color: #456794;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    overflow-x: hidden; 
+}
+
+.listCart::-webkit-scrollbar {
+    width: 10px; 
+}
+
+.listCart::-webkit-scrollbar-track {
+    background: whitesmoke;
+}
+
+.listCart::-webkit-scrollbar-thumb {
+    background:  #6582a9; 
+}
+
+.listCart::-webkit-scrollbar-track
+,.listCart::-webkit-scrollbar-thumb {
+    color: #333333;
+}
+
+.listCart::-webkit-scrollbar-thumb:hover {
+    background: #456794; 
+}
+
+.listCart .item {
+    display: grid;
+    grid-template-columns: 70px 1fr 120px 1fr; 
+    align-items: center;
+    gap: 10px;
+    padding: 15px 0 15px 10px;
+    border-bottom: 1px solid #ddd;
+    transition: background-color 0.3s ease;
+}
+
+.listCart .item:nth-child(even) {
+    background-color: #6e88ab; 
+}
+
+.listCart .item img {
+    height: auto;
+    border-radius: 8px;
+}
+
+.listCart .item .quantity {
+    justify-content: flex-start; 
+    margin-right: 50px;
+    margin-left: -46px; 
+    gap: 3px;
+}
+
+.quantity span {
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    color: #456794;
+    align-items: center;
+    cursor: pointer;
+    font-size: 13px;
+    transition: background-color 0.3s ease;
+}
+
+
+
+.quantity span,
+.icon-cart span {
+    border-radius: 50%;
+    justify-content: center;
+}
+
+.listCart .quantity span:hover {
+    background-color:  #a9c7ef;
+    color: white;
+}
+
+.listCart .quantity span:active {
+    transform: scale(0.9);
+}
+
+
+.button-shop {
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.button-shop .close,
+.button-shop .checkOut {
+    padding: 12px 20px;
+    width: 50%;
+    background-color: #87a8d3;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button-shop .close:hover {
+    background-color: black;
+    color: white;
+}
+
+.button-shop .checkOut:hover {
+    background-color:  #fff;
+    color: black;
+}
+
+
+body.showCart .listProduct {
+    grid-template-columns: repeat(3, minmax(200px, 1fr)); 
+    margin-left: 110px;
+    gap: 20px;
+}
+
+body.showCart .listProduct .item {
+    width: 200px;
+    height: auto;
+}
+
+body.showCart .title-shop {
+    text-align: left; 
+    margin-left: 100px; 
+    padding-left: 20px;
+    transition: 0.3s ease; 
+}
